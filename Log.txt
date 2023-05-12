@@ -1,0 +1,1868 @@
+
+26/02/2023 23:01:36:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:01:37:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:01:37:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:01:37:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:01:37:
+Total sales:
+26/02/2023 23:01:37:
+45542
+26/02/2023 23:06:10:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:06:10:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:06:10:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:06:51:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:06:52:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:06:52:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:06:52:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:06:52:
+alo da
+26/02/2023 23:06:52:
+Total sales:
+26/02/2023 23:06:52:
+45542
+26/02/2023 23:08:50:
+All the csv data: 
+26/02/2023 23:08:50:[{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:08:51:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:08:51:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:08:51:
+Sales per month:
+26/02/2023 23:08:51:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:08:51:
+Total sales:
+26/02/2023 23:08:51:
+45542
+26/02/2023 23:10:14:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:10:14:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:10:14:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:10:14:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:10:14:
+Total sales:
+45542
+26/02/2023 23:13:51:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:13:51:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:13:52:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:13:52:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:13:52:
+Total sales:
+45542
+26/02/2023 23:18:21:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+26/02/2023 23:18:21:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+26/02/2023 23:18:21:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+26/02/2023 23:18:22:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+26/02/2023 23:18:22:
+Total sales:
+45542
+27/02/2023 10:47:42:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 10:47:43:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 10:47:43:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 10:47:43:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 10:47:43:
+Total sales:
+45542
+27/02/2023 12:02:53:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:02:53:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:02:54:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:02:54:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:02:54:
+Total sales:
+45542
+27/02/2023 12:09:04:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:09:05:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:09:05:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:09:05:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:09:05:
+Total sales:
+45542
+27/02/2023 12:09:26:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:09:55:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:09:56:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:09:56:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:09:56:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:09:56:
+Total sales:
+45542
+27/02/2023 12:10:31:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:10:31:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:10:31:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:10:31:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:10:31:
+Total sales:
+45542
+27/02/2023 12:11:14:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:11:15:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:11:15:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:11:15:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:11:15:
+Total sales:
+45542
+27/02/2023 12:11:58:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:11:59:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:11:59:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:11:59:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:11:59:
+Total sales:
+45542
+27/02/2023 12:14:57:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:14:58:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:14:58:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:14:58:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:14:58:
+Total sales:
+45542
+27/02/2023 12:15:08:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:15:08:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:15:08:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:15:08:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:15:08:
+Total sales:
+45542
+27/02/2023 12:15:32:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:15:32:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:15:32:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:15:32:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:15:32:
+Total sales:
+45542
+27/02/2023 12:15:41:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:15:42:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:15:42:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:15:42:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:15:42:
+Total sales:
+45542
+27/02/2023 12:16:07:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:16:08:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:16:08:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:16:08:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:16:08:
+Total sales:
+45542
+27/02/2023 12:16:16:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:16:16:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:16:16:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:16:16:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:16:16:
+Total sales:
+45542
+27/02/2023 12:16:34:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:16:35:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:16:35:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:16:35:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:16:35:
+Total sales:
+45542
+27/02/2023 12:16:38:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:16:38:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:16:38:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:16:39:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:16:39:
+Total sales:
+45542
+27/02/2023 12:17:00:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:17:01:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:17:01:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:17:01:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:17:01:
+Total sales:
+45542
+27/02/2023 12:17:11:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:17:12:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:17:12:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:17:12:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:17:12:
+Total sales:
+45542
+27/02/2023 12:18:22:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:18:52:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:18:53:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:18:53:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:18:53:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:18:53:
+Total sales:
+45542
+27/02/2023 12:19:24:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:19:25:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:19:25:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:19:25:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:19:25:
+Total sales:
+45542
+27/02/2023 12:21:15:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:21:16:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:21:16:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:21:16:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:21:16:
+Total sales:
+45542
+27/02/2023 12:22:45:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:22:46:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:22:46:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:22:46:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:22:46:
+Total sales:
+45542
+27/02/2023 12:23:55:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:23:56:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:23:56:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:23:56:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:23:56:
+Total sales:
+45542
+27/02/2023 12:24:29:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:24:29:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:24:29:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:24:29:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:24:29:
+Total sales:
+45542
+27/02/2023 12:25:48:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:27:03:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:27:04:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:27:04:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:27:04:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:27:04:
+Total sales:
+45542
+27/02/2023 12:28:17:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:28:36:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 12:28:36:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 12:28:36:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 12:28:36:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 12:28:36:
+Total sales:
+45542
+27/02/2023 16:52:21:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+27/02/2023 16:52:21:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+27/02/2023 16:52:21:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+27/02/2023 16:52:21:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+27/02/2023 16:52:21:
+Total sales:
+45542
+28/02/2023 20:28:11:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+28/02/2023 20:28:11:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+28/02/2023 20:28:11:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+28/02/2023 20:28:11:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+28/02/2023 20:28:11:
+Total sales:
+45542
+28/02/2023 21:41:40:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+28/02/2023 21:41:41:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+28/02/2023 21:41:41:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+28/02/2023 21:41:41:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+28/02/2023 21:41:41:
+Total sales:
+45542
+28/02/2023 21:41:56:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+28/02/2023 21:41:56:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+28/02/2023 21:41:56:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+28/02/2023 21:41:57:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+28/02/2023 21:41:57:
+Total sales:
+45542
+28/02/2023 21:42:22:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+28/02/2023 21:42:22:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+28/02/2023 21:42:22:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+28/02/2023 21:42:22:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+28/02/2023 21:42:22:
+Total sales:
+45542
+28/02/2023 21:42:35:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+28/02/2023 21:42:35:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+28/02/2023 21:42:35:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+28/02/2023 21:42:35:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+28/02/2023 21:42:35:
+Total sales:
+45542
+12/05/2023 17:07:57:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+12/05/2023 17:07:57:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+12/05/2023 17:07:57:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+12/05/2023 17:07:57:
+Sales per month:
+([{'jan': 6226}, {'feb': 1521}, {'mar': 1842}, {'apr': 2051}, {'may': 1728}, {'jun': 2138}, {'jul': 7479}, {'aug': 4434}, {'sep': 3615}, {'oct': 5472}, {'nov': 7224}, {'dec': 1812}], [6226, 1521, 1842, 2051, 1728, 2138, 7479, 4434, 3615, 5472, 7224, 1812])
+12/05/2023 17:10:20:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+12/05/2023 17:10:21:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+12/05/2023 17:10:21:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+12/05/2023 17:10:21:
+Sales per month:
+([{'jan': 6226}, {'feb': 1521}, {'mar': 1842}, {'apr': 2051}, {'may': 1728}, {'jun': 2138}, {'jul': 7479}, {'aug': 4434}, {'sep': 3615}, {'oct': 5472}, {'nov': 7224}, {'dec': 1812}], [6226, 1521, 1842, 2051, 1728, 2138, 7479, 4434, 3615, 5472, 7224, 1812])
+12/05/2023 17:11:45:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+12/05/2023 17:11:45:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+12/05/2023 17:11:45:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+12/05/2023 17:11:45:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+12/05/2023 17:11:45:
+Total sales:
+45542
+12/05/2023 17:23:51:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+12/05/2023 17:23:51:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+12/05/2023 17:23:51:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+12/05/2023 17:23:51:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+12/05/2023 17:23:51:
+Total sales:
+45542
+12/05/2023 17:24:47:
+All the csv data: [{'year': '2018', 'month': 'jan', 'sales': '6226', 'expenditure': '3808'},
+ {'year': '2018', 'month': 'feb', 'sales': '1521', 'expenditure': '3373'},
+ {'year': '2018', 'month': 'mar', 'sales': '1842', 'expenditure': '3965'},
+ {'year': '2018', 'month': 'apr', 'sales': '2051', 'expenditure': '1098'},
+ {'year': '2018', 'month': 'may', 'sales': '1728', 'expenditure': '3046'},
+ {'year': '2018', 'month': 'jun', 'sales': '2138', 'expenditure': '2258'},
+ {'year': '2018', 'month': 'jul', 'sales': '7479', 'expenditure': '2084'},
+ {'year': '2018', 'month': 'aug', 'sales': '4434', 'expenditure': '2799'},
+ {'year': '2018', 'month': 'sep', 'sales': '3615', 'expenditure': '1649'},
+ {'year': '2018', 'month': 'oct', 'sales': '5472', 'expenditure': '1116'},
+ {'year': '2018', 'month': 'nov', 'sales': '7224', 'expenditure': '1431'},
+ {'year': '2018', 'month': 'dec', 'sales': '1812', 'expenditure': '3532'}]
+
+12/05/2023 17:24:47:
+Min values: 
+  month  sales
+1   feb   1521 
+   month  expenditure
+3   apr         1098
+12/05/2023 17:24:47:
+Max values: 
+  month  sales
+6   jul   7479 
+   month  expenditure
+2   mar         3965
+12/05/2023 17:24:48:
+Sales per month:{'jan': 6226,
+ 'feb': 1521,
+ 'mar': 1842,
+ 'apr': 2051,
+ 'may': 1728,
+ 'jun': 2138,
+ 'jul': 7479,
+ 'aug': 4434,
+ 'sep': 3615,
+ 'oct': 5472,
+ 'nov': 7224,
+ 'dec': 1812}
+
+12/05/2023 17:24:48:
+Total sales:
+45542
