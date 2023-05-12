@@ -1,7 +1,7 @@
 # Sales Data Analysis with Pandas and Seaborn
 This was the final project of the Introduction to Python & Apps Course run by [Code First Girls](https://codefirstgirls.com/) in Spring 2023.
 
-## The brief
+## Description
 ---
 **First Part:**
 
